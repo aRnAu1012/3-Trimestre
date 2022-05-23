@@ -14,3 +14,7 @@ a hacer pruebas poco a poco las cuales la mayoria tubimos dificultades ya
 que para hacer unas piezas mas flexibles habian que hacer una serie de cortes
 muy unidos y simetricos.
 
+
+# Fotos 
+
+![](https://github.com/aRnAu1012/3-Trimestre/blob/main/kerf-laser-cut3-wood.jpg)
